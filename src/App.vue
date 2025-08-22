@@ -384,36 +384,36 @@ import HelloWorld from './components/HelloWorld.vue'
             <h2><span class="marker">Contact me</span></h2>
             <p class="info">Use the form below to tell me a little about yourself, and I'll be in touch to arrange a 30 minute free no obligation call to explore what's going on for you now in this phase of your life and help you come up with your next step action plan.</p>
             
-            <form id="contactForm" action="contact-form" method="post">
+            <form id="contactForm" @submit="sendEmail">
                 <!-- Short inputs -->
                 <fieldset>
                     <div>
                         <label for="thename">Name <span class="req">*Mandatory</span></label>
-                        <p class="invalid">Please input your name.</p>
-                        <input type="text" name="their-name" id="thename" required size="50" maxlength="50" minlength="2">
+                        <p class="invalid" id="invalidName">Please input your name.</p>
+                        <input type="text" name="thename" id="thename" maxlength="50">
                     </div>
                     <div>
                         <label for="email">Email <span class="req">*Mandatory</span></label>
-                        <p class="invalid">Please input your Email address.</p>
-                        <input type="email" name="email" id="email" required size="50" maxlength="50">
+                        <p class="invalid" id="invalidEmail">Please input your Email address.</p>
+                        <input type="email" name="email" id="email" size="50" maxlength="50">
                     </div>
                     <div>
                         <label for="email2">Repeat Email <span class="req">*Mandatory</span></label>
-                        <p class="invalid">Please input the same Email address.</p>
-                        <input type="text" name="email2" id="email2" required size="50" maxlength="50">
+                        <p class="invalid" id="invalidEmail2">Please input the same Email address.</p>
+                        <input type="text" name="email2" id="email2" size="50" maxlength="50">
                     </div>
                     <div>
                         <label for="phone">Phone</label>
-                        <p class="invalid">Only 0-9, +, and - are allowed.</p>
-                        <input type="text" name="phone" id="phone" size="64" minlength="8" maxlength="20" pattern="^[0-9+\-]+$">
+                        <p class="invalid" id="invalidPhone">Only 0-9, +, and - are allowed.</p>
+                        <input type="text" name="phone" id="phone" size="64" maxlength="20">
                     </div>
                 </fieldset>
                 <!-- Textboxes -->
                 <fieldset>
                     <div>
                         <label for="message">Message <span class="req">*Mandatory</span></label>
-                        <p class="invalid">Please write your message.</p>
-                        <textarea name="message" id="message" placeholder="Briefly describe your current phase of life, such as career transition, personal development, retirement planning, etc." required></textarea>
+                        <p class="invalid" id="invalidMessage">Please write your message.</p>
+                        <textarea name="message" id="message" placeholder="Briefly describe your current phase of life, such as career transition, personal development, retirement planning, etc."></textarea>
                     </div>
                     <div>
                         <label for="goal">Goals and Aspirations</label>

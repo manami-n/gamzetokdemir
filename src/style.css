@@ -723,6 +723,7 @@ header .sp-nav.active{
 }
 
 #contact .invalid{
+  display: none;
   font-size: 0.95rem;
   font-weight: 400;
   color: #c38db7;
