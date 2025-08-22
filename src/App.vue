@@ -430,13 +430,22 @@ import HelloWorld from './components/HelloWorld.vue'
                 </div>
             </form>
         </div>
-    </section>
+      </section>
+
+      <!-- /////  Pop Up  Submit ///// -->
+      <div id="formMessageOverlay" class="overlay">
+        <div class="message-box">
+          <p id="formMessageText"></p>
+          <button id="formMessageClose">OK</button>
+        </div>
+      </div>
 
     <!-- /////  To Top  ///// -->
     <div id="to-top">
         <a href="#"><img src="./assets/img/to-top.png" alt="Page Top"></a>
     </div>
 </main>
+
 
     <!-- /////  FOOTER  ///// -->
 <footer>
@@ -454,5 +463,4 @@ import HelloWorld from './components/HelloWorld.vue'
         <p><small>&copy;Gamze Tokdemir. All rights reserved.</small></p>
     </div>
 </footer>
-  <HelloWorld msg="Vite + Vue" />
 </template>

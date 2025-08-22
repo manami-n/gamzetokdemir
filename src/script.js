@@ -81,6 +81,22 @@ window.addEventListener('scroll', () => {
 });
 
 
+//POP UP after Submission
+const overlay = document.getElementById('formMessageOverlay');
+const messageText = document.getElementById('formMessageText');
+const closeBtn = document.getElementById('formMessageClose');
+
+function showFormMessage(msg) {
+  messageText.textContent = msg;
+  overlay.style.display = 'flex';
+}
+
+// Close button
+closeBtn.addEventListener('click', () => {
+  overlay.style.display = 'none';
+});
+
+// Form Control
 const form = document.getElementById("contactForm");
 
   form.addEventListener("submit", (e) => {
@@ -150,10 +166,10 @@ const form = document.getElementById("contactForm");
       import.meta.env.VITE_EMAILJS_PUBLIC_KEY
     )
     .then((result) => {
-      console.log("Success:", result.text);
+      showFormMessage("Thank you! Your message has been sent successfully.");
       form.reset();
     }, (error) => {
-      console.log("Error:", error.text);
+      showFormMessage("Oops! Something went wrong. Please try again.");;
     });
   });
 });
