@@ -1,0 +1,222 @@
+{
+"header": {
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "altLang": "Türkçe"
+},
+"landing": {
+    "h2":  "You are the Light",
+    "blockquote": "You were born with potential. You were born with goodness and trust. You were born with ideals dreams. You were born with greatness. You were born with wings. You are not meant for crawling, so don't. You have wings. Learn to use them and fly."
+},
+"about": {
+    "h2": "Who is Gamze Tokdemir?",
+    "comment": "Wellbeing Coach, Breathwork Facilitator, <br>Ayurvedic Lifestyle , and a Meditation Teacher",
+    "alt": "Gamze's photo",
+    "paragraphs": [
+        "With a rich and fulfilling background in education, Gamze has transitioned from being a passionate English teacher and teacher trainer to a certified wellbeing coach by Chopra, breathwork facilitator, Ayurvedic lifestyle, and meditation teacher. Her journey from the classroom to the realm of holistic wellness is fueled by a deep commitment to helping others achieve balance and fulfillment in their lives.",
+        "For over 15 years, Gamze loved her role as an English teacher and teacher trainer, where she inspired countless students and educators. Her enthusiasm for teaching and her dedication to personal development were evident in every lesson she delivered. However, her deep curiosity about the holistic aspects of wellbeing and a desire to support her students beyond the classroom led her to explore new paths.",
+        "This exploration brought Gamze to the Chopra certification program for wellbeing coaching, where she gained advanced skills in guiding clients towards optimal health and wellbeing. She further enhanced her expertise by becoming a certified breathwork facilitator, Ayurvedic lifestyle, and meditation teacher. These diverse yet complementary disciplines enable her to offer a comprehensive and personalized approach to wellness.",
+        "In her current practice, Gamze empowers clients to discover their own answers and create personalized plans for their wellbeing. She combines the wisdom of Ayurveda with the transformative power of breathwork and meditation to help clients achieve balance in their mind, body, and spirit. Her approach is client-centered, focusing on individual strengths and fostering self-awareness.",
+        "Gamze's philosophy is rooted in compassion, empathy, and a holistic understanding of health. She believes that true wellness is a harmonious integration of the mind, body, and spirit, and she is dedicated to guiding her clients on their unique journeys towards wellbeing.",
+        "When she is not working with clients, Gamze enjoys being in nature, hiking, movement & dancing, which further enrich her practice and deepen her connection with the community she serves."
+    ]
+},
+"services": {
+    "question": "Seeking purpose and fulfillment?<br>Wanting to achieve a better work-life balance?<br>Dealing with anxiety or burnout?<br>Or you simply desire a change in your life but not sure where to start?",
+    "comment": "<a href=\"/#contact\">Join me</a> on a journey of self-discovery that will help you with your physical, mental, and spiritual well-being.",
+    "h2": "Services",
+    "tags": {
+        "1:1" : "1:1 Sessions",
+        "group": "Group Sessions"
+    },
+    "readMore": "Read More",
+    "readLess": "Read Less",
+    "breathwork": {
+        "h3": "Breathwork",
+        "altIcon": "Icon Breathwork",
+        "description": [
+            "It's hard to change your mind with your mind — it's easier to change your mind with the body. This is where the power of breath comes in…  in the moment with immediate influence on your nervous system and brain. <br>",
+            "Breathe in. Breathe out. <br>",
+            "We don't think too much about the breathing process, but your breath can tell you a lot about your body. <br>",
+            "Breathwork is a holistic, mind-body approach to mental health and well-being. It can be done simply and on your own, or it can be structured and part of a formal program. Its purpose is to directly influence your body's inner workings to reduce stress, anxiety, and other challenges, increase calm, and encourage well-being. <br><br>",
+            "In this specific breathwork, we are “not teaching” the body how to breathe; we are just “reminding” how it used to breathe until it was 3 years old. We all breathe all the time! The way we breathe is what makes a difference. For example: when we are stressed, our breathing speeds up and becomes shallow which triggers fight- a fight-flight-freeze response, and when we are in this state, we are not digesting food or our emotions properly. <br><br>",
+            "Our mind is scattered, however, when we are relaxed and the mind is calmer, our breathing is deep and rhythmic. That influences the entire body, especially the rest and digest system which reverses the stress response, allowing the body to relax so we switch our system from a state of stress to a state of calm. <br><br>",
+            "Once you notice the power of your breath, I promise you will also see the full potential of Yourself."
+        ],
+        "altCert": "Certificate of Breath Coaching"
+    },
+    "meditation": {
+        "h3": "Primordial Sound Meditation",
+        "altIcon": "Icon Primordial Sound Meditation",
+        "description": [
+            "Primordial Sound Meditation is an ancient practice from the Vedic traditions of India, revived by Dr. Deepak Chopra and Dr. David Simon at the Chopra Center. It uses the basic, most essential sounds of nature—Primordial Sounds—are used to disconnect us from the activity of life. <br><br>",
+            "You're given a personalized mantra that represents the sound vibration that took place in the universe on the exact date and time that you were born- These individually selected sounds, known as mantras, <br>",
+            "work fairly quickly to help you feel calm, relaxed and a wholesome sense of inner peace. <br><br>",
+            "Primordial Sound Meditation (PSM) is simple—but it takes time, dedication, and consistency to make meditation a habit. <br>",
+            "You don't have to quit your job, change your diet, wear special clothes, or overhaul your lifestyle—you only need to find a little time. <br><br>",
+            "You need two things to meditate: <br>",
+            "1-sit down <br>",
+            "2-close your eyes <br><br>",
+            "Practicing PSM daily can help you to: <br><br>",
+            "*Manage stress <br>",
+            "*Reduce anxiety <br>",
+            "*Improve your relationships <br>",
+            "*Create inner peace <br>",
+            "*Awaken your intuition <br>",
+            "*Enhance your sleep patterns <br>",
+            "*Lower your blood pressure <br>",
+            "*Become less judgmental <br><br>",
+            "Meditation classes can be run in-person or online, and they can also be offered as individual one-on-one lesson or small group."
+        ],
+        "altCert": "Certificate of Meditation Instructor"
+    },
+    "ayurveda": {
+        "h3": "Ayurveda",
+        "altIcon": "Icon Ayurveda",
+        "description": [
+            "In English, Ayurveda is translated as \"the science of life.\" <br>",
+            "Ayurveda is a 5,000-year-old consciousness-based system of healing originating from India. Its fundamental purpose is to guide individuals back to their innate state of health, balance, and wholeness. It gives you the knowledge and tools to create a healthy, happy life while realizing your full human potential. <br>",
+            "As an Ayurvedic lifestyle teacher, I will offer ways to improve every area of life through practices related to the six pillars of health: nutrition, movement, sleep, meditation, emotions, and self-care. <br><br>",
+            "Ayurvedic Lifestyle courses can be run in-person or online, and it can also be offered as individual one-on-one lesson, small groups or corporate event."
+        ],
+        "altCert": "Certificate of Ayurvedic Health Instructor",
+        "altCert2": "Certificate of Gut Health Course"
+    },
+    "coaching": {
+        "h3": "Personalized Coaching",
+        "altIcon": "Icon Coaching",
+        "description": [
+            "As a Chopra coach, my primary focus is on assisting my clients in uncovering their vision of total well-being. Recognizing the uniqueness of each individual, I provide tailored guidance that aligns with their specific needs. Through this personalized approach, I support my clients in identifying their purpose, setting meaningful goals, and developing effective strategies by only taking baby steps. By guiding them through this process, I empower my clients to realize their well-being vision and embark on a journey toward a more fulfilling and balanced life. <br><br>",
+            "Here is how we do it together: Purpose <br>",
+            "Who am I? What is my dharma (purpose)? <br>",
+            "Creating a personalized purpose statement, integrating your values into your daily life, and gaining a fresh perspective are powerful steps toward living a more fulfilling life.<br>",
+            "We will also discover what's keeping you from discovering your inner peace and purpose. <br><br>",
+            "Intention <br>",
+            "What do I want? What is my deepest desire? <br>",
+            "Together we will set clear intentions and goals for navigating the changes you want to make. <br><br>",
+            "Meaning <br>",
+            "What is the same story that I keep telling to myself? Do I still need it? Really? <br>",
+            "Once we discover the stories that you keep telling yourself, I will guide you to create a new meaning that offers greater freedom and new possibilities around your challenging situation. <br><br>",
+            "Shadow <br>",
+            "What parts of yourself have you rejected? Why? <br>",
+            "We'll delve into the aspects of ourselves that we judge, reject, disown, or hide from and by owning our shadow, we will return to wholeness and well-being. <br>",
+            "Deepak Chopra: “The shadow is a human creation—the illusion of separateness. Together we created the shadow that haunts us, and embracing it is the key to our transformation.“"
+        ],
+        "altCert": "Certificate of Total Well-Being Coarch"
+    }
+},
+"testimonials": {
+    "h2": "Testimonials",
+    "swipe": "Swipe",
+    "testi1": {
+        "h3": "Bade T.",
+        "occupation": "Ceramic Artist",
+        "review": [
+            "Gamze is a natural born healer. Her energy, her words, her touch calms the mind and the body, gently pushing you to see things more clearly and without the preconceptions of the mind.",
+            "She guides you ever so carefully to explore the depths of your heart and uncover the roots of your behaviors, fears and thoughts. ",
+            "It's been 2 years that we are on this journey together. ",
+            "With breathwork, meditation and coaching, she holds my hand when I navigate through the ups&downs of life. ",
+            "I am eternally grateful for her presence in my life, and am confident that universe brought us together so that we can grow up and grow our hearts wide open."
+        ]
+    },
+    "testi2": {
+        "h3": "Oyku C.",
+        "occupation": "Creative Director",
+        "review": [
+            "My sessions with Gamze feel incredibly natural and effortless. ",
+            "She creates a space where I can truly listen to my own voice, tuning out the noise in my mind. ",
+            "Gamze's unique blend of breathwork, active listening, and coaching, combined with her ability to guide me along my personal journey based on where I am in each moment, has been transformative. ",
+            "Every session feels fresh and tailored to my needs—never routine. I leave each one with a sense of openness in my breath, a deeper connection to myself, and a heightened sense of energy and excitement."
+        ]
+    },
+    "testi3": {
+        "h3": "Katy T.",
+        "occupation": "Cloud Security Specialist",
+        "review": [
+            "Working with Gamze has been a transformative experience that has set me on the path to become the best version of myself! ",
+            "Over the last few years, I struggled with anxiety and overthinking, problems with self-expression in certain social situations and freezing! ",
+            "Along the way, I had picked up some unhealthy habits. ",
+            "They were an escape out of my reality, which eventually led me down a dark path. ",
+            "But at some point, my mind, body and spirit found that they were no longer serving me and I knew that I had to make a change, but I didn't really know how to begin without looping back to the same old habits. ",
+            "Gamze guided me through a beautiful transformational journey! ",
+            "From the very beginning, she created a safe and comfortable space, which allowed me to open up and explore my personal boundaries, providing me with tools needed to set healthy boundaries, and build positive habits that have positively impacted many areas of my life. ",
+            "Without her compassion and expert guidance, I don't know where I would be now. ",
+            "I highly recommend anyone who is searching for meaningful personal growth. Thank you, Gamze!"
+        ]
+    },
+    "testi4": {
+        "h3": "Evlo M.",
+        "occupation": "Hospitality Professional",
+        "review": [
+            "I've had many sessions with Gamze, and in each one, I found myself thinking, \"I'm so glad I'm here.\" By the end of every session, I felt as though I had been reborn, as if something magical had touched me. ",
+            "Each session became more powerful than the last. I can honestly say that Gamze's sessions stand out as some of the most impactful moments where I've experienced meditation at its deepest. ",
+            "I'm truly grateful for having gone through this journey."
+        ]
+    },
+    "testi5": {
+        "h3": "Suheyla U.",
+        "occupation": "Yoga Instructor & English Teacher",
+        "review": [
+            "I was at a point where I realized I needed to let go of certain habits that I'd noticed in myself and that had started to bother me, yet I found it very difficult to do so on my own. ",
+            "By pure chance, or perhaps not by chance at all :), my path crossed with Gamze. During the challenging days of my transformation, she supported me in calming my mind, taking a deep breath, and most importantly, practicing self-compassion. ",
+            "Beyond her knowledge and expertise, her vibrant energy, enthusiasm, and joy left me inspired, lighting a new way forward in each session. ",
+            "Although it's been some time since our sessions, the insights she helped me gain continue to illuminate my journey. She gifted me with a light from her own boundless light—one that will never dim. ",
+            "Thank you, Gamze, for lighting my path!"
+        ]
+    },
+    "testi6": {
+        "h3": "Yagmur E.",
+        "occupation": "Assistant Professor",
+        "review": [
+            "My journey with Gamze and her breath work sessions started when I was going through a hard time of my life, in search of answers, seeking for help. When I arrived at her place, it was such a peaceful environment that I could sense I was going to be surrounded by a calm, caring and transformative energy of hers. ",
+            "During five sessions we had, I realised how breathing accurately can have an impact on your physiology and psychology. ",
+            "Our conversations before and after the breath work, shed a light on my questions, leaving me with curiosity to find out more about myself, to be more in touch with my inner self. ",
+            "Her eclectic and wholistic approach including coaching, breath work, meditation, guidance helped me reach a better understanding of what I really wanted, and needed - leading me to step ahead for solutions. ",
+            "Every now and then, when I visit Gamze, I always leave with relief in my heart and in my mind, feeling back to my centre again, remembering that I have the power to create what I want. I am deeply grateful as our paths have crossed."
+        ]
+    }
+},
+"contact": {
+    "h2": "Contact Me",
+    "info": "Use the form below to tell me a little about yourself, and I'll be in touch to arrange a 30 minute free no obligation call to explore what's going on for you now in this phase of your life and help you come up with your next step action plan.",
+    "form": {
+        "mandatory": "Mandatory",
+        "name": "Name",
+        "invalidName": "Please input your name.",
+        "email": "Email",
+        "invalidEmail": "Please input your Email address.",
+        "email2": "Repeat Email",
+        "invalidEmail2": "Please input the same Email address.",
+        "phone": "Phone",
+        "invalidPhone": "Only 0-9, +, and - are allowed.",
+        "message": "Message",
+        "messagePlace": "Briefly describe your current phase of life, such as career transition, personal development, retirement planning, etc.",
+        "invalidMessage": "Please write your message.",
+        "goals": "Goals and Aspirations",
+        "goalsPlace": "Such as achieving a work-life balance, advancing in your career, starting a new business, improving your health, building better relationships, etc.",
+        "additional": "Additional Information",
+        "additionalPlace": "Any additional information that you think might be relevant.",
+        "submit": "Submit",
+        "submitOk": "Thank you! Your message has been sent successfully.",
+        "sunmitNg": "Oops! Something went wrong. Please try again."
+    }
+},
+"footer": {
+    "altToTop": "Page Top",
+    "altCert": "Well-being Coach, Promordial Sound Meditation Teacher, Ayurveda Health Teacher Certified by Chopra Global"
+},
+  "testContact": {
+    "title": "Contact Form",
+    "name": "Name",
+    "email": "Email",
+    "repeat_email": "Repeat Email",
+    "phone": "Phone",
+    "message": "Message",
+    "goal": "Goals and Aspirations",
+    "additional": "Additional Information",
+    "submit": "Submit",
+    "thank_you": "Thank you! Your message has been sent."
+    }
+  }

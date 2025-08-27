@@ -222,32 +222,36 @@ header .burger{
   width: 50px;
     
 }
-header .burger .dot{
-  margin: 5px auto;
-}
-header .dot, .dot::before, .dot::after{
+
+header .dot {
+  position: relative;
   width: 6px;
   height: 6px;
-  border-radius: 5px;
+  margin: 0 auto;
+  border-radius: 50%;
   background-color: var(--color-figure-purple);
   filter: drop-shadow(0px 1px 1px rgba(0,0,0, 0.25));
   transition: background-color 0.2s ease;
 }
-header .dot::before, header .dot::after{
+
+header .dot::before,
+header .dot::after {
   content: "";
-  display: inline-block;
   position: absolute;
-  top: 11px;
-}
-header .dot::after{
-  top: 22px
-}
-header .burger:hover .dot, .burger:hover  .dot::before, .burger:hover .dot::after{
+  left: 0;
   width: 6px;
   height: 6px;
-  background-color: var(--color-figure-blue);
-  border-radius: 5px;
+  border-radius: 50%;
+  background-color: var(--color-figure-purple);
   filter: drop-shadow(0px 1px 1px rgba(0,0,0, 0.25));
+  transition: background-color 0.2s ease;
+}
+
+header .dot::before {
+  top: 11px;
+}
+header .dot::after {
+  top: 22px; 
 }
 
 header nav ul{
@@ -903,7 +907,7 @@ footer small{
   }
 
   header .sp-nav{
-    width: calc(100% - 300px);
+    width: calc(100% - 400px);
     max-width: calc(var(--width-content) - 400px);
     overflow: visible;
     top: 0;

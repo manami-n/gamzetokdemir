@@ -1,6 +1,8 @@
 
 import emailjs from "emailjs-com";
+import { i18n } from "./main.js"
 document.addEventListener('DOMContentLoaded', () => {
+const t = i18n.global.t // transaltor function in i18n
 // Testimonials Carousel
 const slides = document.getElementById('slides');
 const swipeHint = document.getElementById('swipeHint');
@@ -34,22 +36,41 @@ slides.addEventListener('mousemove', (e) => {
 });
 
 // Services Toggle
-document.querySelectorAll('.sv-card').forEach(card => {
-  const toggle = card.querySelector('.sv-card-toggle');
-  const textSpan = toggle.querySelector('.toggle-text');
-
-  toggle.addEventListener('click', () => {
-    card.classList.toggle('active');
-    toggle.classList.toggle('expanded'); // rotates arrow
-
+function updateToggleTexts(){
+  document.querySelectorAll('.sv-card').forEach(card => {
+    const toggle = card.querySelector('.sv-card-toggle');
+    const textSpan = toggle.querySelector('.toggle-text');
+    
     // Update text
     if (card.classList.contains('active')) {
-      textSpan.textContent = 'Read Less';
+      textSpan.textContent = t("services.readLess");
     } else {
-      textSpan.textContent = 'Read More';
+      textSpan.textContent = t("services.readMore");
     }
   });
-});
+}
+
+// Initial setup
+updateToggleTexts()
+
+// Handle clicks
+document.querySelectorAll('.sv-card').forEach(card => {
+  const toggle = card.querySelector('.sv-card-toggle')
+  const textSpan = toggle.querySelector('.toggle-text')
+
+  toggle.addEventListener('click', () => {
+    card.classList.toggle('active')
+    toggle.classList.toggle('expanded')
+    updateToggleTexts()
+  })
+})
+
+// Listen for language changes
+window.addEventListener("locale-changed", () => {
+  updateToggleTexts()
+})
+
+
 
 // Nav control
 const burger = document.querySelector('.burger');
@@ -57,9 +78,6 @@ const spNav = document.querySelector('.sp-nav');
 
 burger.addEventListener('click', () => {
   spNav.classList.toggle('active');
-
-  // optional: animate burger dots into X
-  burger.classList.toggle('open');
 });
 
 document.querySelectorAll('.sp-nav nav a').forEach(link => {
@@ -166,10 +184,10 @@ const form = document.getElementById("contactForm");
       import.meta.env.VITE_EMAILJS_PUBLIC_KEY
     )
     .then((result) => {
-      showFormMessage("Thank you! Your message has been sent successfully.");
+      showFormMessage(t("contact.form.submitOk"));
       form.reset();
     }, (error) => {
-      showFormMessage("Oops! Something went wrong. Please try again.");;
+      showFormMessage(t("contact.form.submitNg"));
     });
   });
 });

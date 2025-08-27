@@ -1,0 +1,225 @@
+{
+"header": {
+    "about": "Hakkında",
+    "services": "Hizmetler",
+    "testimonials": "Referanslar",
+    "contact": "Temas etmek",
+    "altLang": "English"
+},
+"landing": {
+    "h2":  "Sen Işıksın",
+    "blockquote": "Potansiyelle doğdun. İyilik ve güvenle doğdun. İdeallerle, hayallerle doğdun. Büyüklükle doğdun. Kanatlarla doğdun. Sürünmek sana göre değil, o yüzden yapma. Kanatların var. Onları kullanmayı ve uçmayı öğren."
+},
+"about": {
+    "h2": "Gamze Tokdemir kimdir?",
+    "comment": "Refah Koçu, Nefes Çalışması Kolaylaştırıcısı, Ayurvedik Yaşam Tarzı ve Meditasyon Öğretmeni",
+    "alt": "Gamze'nin fotoğrafı",
+    "paragraphs": [
+        "Eğitim alanında zengin ve tatmin edici bir geçmişe sahip olan Gamze, tutkulu bir İngilizce öğretmeni ve öğretmen eğitmeninden, Chopra sertifikalı bir sağlıklı yaşam koçu, nefes egzersizleri kolaylaştırıcısı, Ayurvedik yaşam tarzı ve meditasyon eğitmeni olmaya geçiş yaptı. Sınıftan bütünsel sağlıklı yaşam alanına uzanan yolculuğu, başkalarının hayatlarında denge ve doyuma ulaşmalarına yardımcı olma konusundaki derin bağlılığıyla besleniyor.",
+        "Gamze, 15 yılı aşkın süredir İngilizce öğretmeni ve öğretmen eğitmeni olarak görevini severek üstlendi ve sayısız öğrenci ve eğitimciye ilham verdi. Öğretme konusundaki coşkusu ve kişisel gelişime olan bağlılığı, verdiği her derste açıkça görülüyordu. Ancak, refahın bütünsel yönlerine olan derin merakı ve öğrencilerini sınıfın ötesinde destekleme arzusu, onu yeni yollar keşfetmeye yöneltti.",
+        "Bu keşif, Gamze'yi Chopra sağlık koçluğu sertifika programına getirdi ve burada danışanlarını optimum sağlık ve esenliğe yönlendirmede ileri düzey beceriler kazandı. Sertifikalı bir nefes egzersizleri kolaylaştırıcısı, Ayurvedik yaşam tarzı ve meditasyon öğretmeni olarak uzmanlığını daha da geliştirdi. Bu çeşitli ancak birbirini tamamlayan disiplinler, ona kapsamlı ve kişiselleştirilmiş bir sağlık yaklaşımı sunma olanağı sağlıyor.",
+        "Gamze, mevcut uygulamasında danışanlarının kendi cevaplarını keşfetmelerine ve refahları için kişiselleştirilmiş planlar oluşturmalarına yardımcı oluyor. Danışanlarının zihin, beden ve ruh dengelerine ulaşmalarına yardımcı olmak için Ayurveda bilgeliğini nefes egzersizleri ve meditasyonun dönüştürücü gücüyle birleştiriyor. Danışan odaklı yaklaşımı, bireysel güçlü yönlere odaklanıyor ve öz farkındalığı teşvik ediyor.",
+        "Gamze'nin felsefesi şefkat, empati ve bütünsel bir sağlık anlayışına dayanmaktadır. Gerçek sağlığın zihin, beden ve ruhun uyumlu bir bütünleşmesi olduğuna inanır ve danışanlarına sağlık yolundaki benzersiz yolculuklarında rehberlik etmeye kendini adamıştır.",
+        "Müşterileriyle çalışmadığı zamanlarda Gamze, doğada bulunmaktan, yürüyüş yapmaktan, hareket etmekten ve dans etmekten hoşlanıyor; bu da pratiğini daha da zenginleştiriyor ve hizmet verdiği toplulukla bağlantısını derinleştiriyor."
+    ]
+},
+"services": {
+    "question": [
+        "Amaç ve tatmin mi arıyorsunuz?<br>Daha iyi bir iş-yaşam dengesi mi kurmak istiyorsunuz?<br>Kaygı veya tükenmişlikle mi mücadele ediyorsunuz?<br>Ya da hayatınızda bir değişiklik mi istiyorsunuz ama nereden başlayacağınızı bilmiyor musunuz?"
+    ],
+    "comment": "Fiziksel, zihinsel ve ruhsal sağlığınıza yardımcı olacak bir öz keşif yolculuğuna <a href=\"/#contact\">benimle katılın</a>.",
+    "h2": "Hizmetler",
+    "tags": {
+        "1:1" : "1:1 Seanslar",
+        "group": "Grup Oturumları"
+    },
+    "readMore": "Devamını Oku",
+    "readLess": "Daha Az Oku",
+    "breathwork": {
+        "h3": "Nefes çalışması",
+        "altIcon": "Nefes çalışması simgesi",
+        "description": [
+            "Zihninizle zihninizi değiştirmek zordur; zihninizi bedeninizle değiştirmek daha kolaydır. Nefesin gücü tam da bu noktada devreye girer... sinir sisteminiz ve beyniniz üzerinde anında etkiyle.<br>",
+            "Nefes alın. Nefes verin.<br>",
+            "Nefes alma süreci hakkında çok fazla düşünmeyiz, ancak nefesiniz size bedeniniz hakkında çok şey anlatabilir.<br>",
+            "Nefes çalışması, zihinsel sağlık ve esenliğe bütünsel, zihin-beden yaklaşımıdır. Basitçe ve kendi başınıza yapılabilir veya yapılandırılmış ve resmi bir programın parçası olabilir. Amacı, stresi, kaygıyı ve diğer zorlukları azaltmak, sakinliği artırmak ve esenliği teşvik etmek için bedeninizin iç işleyişini doğrudan etkilemektir.<br><br>",
+            "Bu özel nefes çalışmasında, bedene nasıl nefes alacağını \"öğretmiyoruz\"; sadece 3 yaşına kadar nasıl nefes aldığını \"hatırlatıyoruz\". Hepimiz sürekli nefes alıyoruz! Fark yaratan, nefes alma şeklimizdir. Örneğin: Stresli olduğumuzda nefesimiz hızlanır ve sığlaşır, bu da savaşma -savaş-kaç-donma-tepkisini tetikler ve bu durumdayken, yiyecekleri veya duygularımızı düzgün sindiremeyiz.<br><br>",
+            "Zihnimiz dağınıktır, ancak rahatladığımızda ve zihnimiz daha sakin olduğunda nefesimiz derin ve ritmiktir. Bu, tüm vücudu, özellikle de dinlenme ve sindirim sistemini etkiler ve stres tepkisini tersine çevirerek vücudun rahatlamasını ve sistemimizi stres durumundan sakin duruma geçirmemizi sağlar.<br><br>",
+            "Nefesinizin gücünü fark ettiğinizde, kendinizin tüm potansiyelini de göreceğinize söz veriyorum.<br>"
+        ],
+        "altCert": "Nefes Koçluğu Sertifikası"
+    },
+    "meditation": {
+        "h3": "İlkel Ses Meditasyonu",
+        "altIcon": "İlkel Ses Meditasyonu simgesi",
+        "description": [
+            "lkel Ses Meditasyonu, Dr. Deepak Chopra ve Dr. David Simon tarafından Chopra Merkezi'nde yeniden canlandırılan, Hindistan'ın Vedik geleneklerinden kalma kadim bir uygulamadır. Doğanın en temel, en temel seslerini kullanır - İlkel Sesler - bizi yaşamın akışından koparmak için kullanılır.<br><br>",
+            "Doğduğunuz tarih ve saatte evrende meydana gelen ses titreşimini temsil eden kişiselleştirilmiş bir mantra verilir. Mantra olarak bilinen bu bireysel olarak seçilmiş sesler,<br>",
+            "sakin, rahat ve bütünsel bir iç huzur hissi duymanıza oldukça hızlı bir şekilde yardımcı olur.<br><br>",
+            "İlkel Ses Meditasyonu (PSM) basittir - ancak meditasyonu bir alışkanlık haline getirmek zaman, özveri ve istikrar gerektirir.<br>",
+            "İşinizden ayrılmanız, beslenme düzeninizi değiştirmeniz, özel kıyafetler giymeniz veya yaşam tarzınızı değiştirmeniz gerekmez - sadece biraz zaman ayırmanız gerekir.<br><br>",
+            "Meditasyon yapmak için iki şeye ihtiyacınız var:<br>",
+            "1-Oturun<br>",
+            "2-Gözlerinizi kapatın<br><br>",
+            "PSM'yi günlük olarak uygulamak size şunlarda yardımcı olabilir:<br><br>",
+            "*Stresi yönetin<br>",
+            "*Kaygıyı azaltın<br>",
+            "*İlişkilerinizi geliştirin<br>",
+            "*İç huzuru yaratın<br>",
+            "*Sezgilerinizi uyandırın<br>",
+            "*Uyku düzeninizi iyileştirin<br>",
+            "*Tansiyonunuzu düşürün<br>",
+            "*Daha az yargılayıcı olun<br><br>",
+            "Meditasyon dersleri şahsen veya çevrimiçi olarak gerçekleştirilebilir ve ayrıca bireysel bire bir ders veya küçük grup olarak da sunulabilir.<br>"
+        ],
+        "altCert": "Meditasyon Eğitmenliği Sertifikası"
+    },
+    "ayurveda": {
+        "h3": "Ayurveda",
+        "altIcon": "Ayurveda simgesi",
+        "description": [
+            "Ayurveda, İngilizce'de \"yaşam bilimi\" olarak tercüme edilir.<br>",
+            "Ayurveda, Hindistan'dan gelen 5.000 yıllık bilinç temelli bir şifa sistemidir. Temel amacı, bireyleri doğuştan gelen sağlık, denge ve bütünlük durumlarına geri döndürmektir. Size sağlıklı ve mutlu bir yaşam yaratırken tüm insan potansiyelinizi ortaya çıkarmanız için bilgi ve araçlar sağlar.<br>",
+            "Bir Ayurvedik yaşam tarzı öğretmeni olarak, altı sağlık ilkesiyle ilgili uygulamalar aracılığıyla yaşamın her alanını iyileştirmenin yollarını sunacağım: beslenme, hareket, uyku, meditasyon, duygular ve öz bakım.<br><br>",
+            "Ayurvedik Yaşam Tarzı kursları yüz yüze veya çevrimiçi olarak yürütülebilir ve ayrıca bireysel bire bir ders, küçük gruplar veya kurumsal etkinlik olarak da sunulabilir.<br>"
+        ],
+        "altCert": "Ayurvedik Sağlık Eğitmeni Sertifikası",
+        "altCert2": "Bağırsak Sağlığı Kursu Sertifikası"
+    },
+    "coaching": {
+        "h3": "Kişiselleştirilmiş Koçluk",
+        "altIcon": "Kişiselleştirilmiş Koçluk simgesi",
+        "description": [
+            "Bir Chopra koçu olarak, öncelikli odak noktam danışanlarımın tam refah vizyonlarını ortaya çıkarmalarına yardımcı olmaktır. Her bireyin benzersizliğini kabul ederek, özel ihtiyaçlarına uygun, kişiye özel rehberlik sağlıyorum. Bu kişiselleştirilmiş yaklaşımla, danışanlarımın amaçlarını belirlemelerine, anlamlı hedefler belirlemelerine ve yalnızca küçük adımlar atarak etkili stratejiler geliştirmelerine destek oluyorum. Bu süreçte onlara rehberlik ederek, danışanlarımın refah vizyonlarını gerçekleştirmelerine ve daha tatmin edici ve dengeli bir hayata doğru bir yolculuğa çıkmalarına güç veriyorum.<br><br>",
+            "Bunu birlikte nasıl yapıyoruz: Amaç<br>",
+            "Ben kimim? Dharmam (amacım) nedir?<br>",
+            "Kişiselleştirilmiş bir amaç ifadesi oluşturmak, değerlerinizi günlük yaşamınıza entegre etmek ve yeni bir bakış açısı kazanmak, daha tatmin edici bir yaşam sürmek için güçlü adımlardır.<br>",
+            "Ayrıca, iç huzurunuzu ve amacınızı keşfetmenizi engelleyen şeyin ne olduğunu da keşfedeceğiz.<br><br>",
+            "Niyet<br>",
+            "Ne istiyorum? En derin arzum nedir?<br>",
+            "Birlikte, yapmak istediğiniz değişikliklerde size rehberlik edecek net niyetler ve hedefler belirleyeceğiz.<br><br>",
+            "Anlam<br>",
+            "Kendime anlatıp durduğum aynı hikaye nedir? Hâlâ ihtiyacım var mı? Gerçekten mi?<br>",
+            "Kendinize anlatıp durduğun hikayeleri keşfettiğimizde, zorlu durumun etrafında daha fazla özgürlük ve yeni olasılıklar sunan yeni bir anlam yaratman için sana rehberlik edeceğim.<br><br>",
+            "Gölge<br>",
+            "Kendinin hangi kısımlarını reddettin? Neden?<br>",
+            "Yargıladığımız, reddettiğimiz, reddettiğimiz veya saklandığımız yönlerimizi derinlemesine inceleyeceğiz ve gölgemize sahip çıkarak bütünlüğe ve esenliğe geri döneceğiz.<br>",
+            "Deepak Chopra: “Gölge, insan yaratımıdır - ayrı olma yanılsaması. Bizi rahatsız eden gölgeyi birlikte yarattık ve onu kucaklamak dönüşümümüzün anahtarıdır.“<br>"
+        ],
+        "altCert": "Toplam Refah Koçu Sertifikası"
+    }
+},
+"testimonials": {
+    "h2": "Referanslar",
+    "swipe": "Tokatlamak",
+    "testi1": {
+        "h3": "Bade T.",
+        "occupation": "Seramik Sanatçısı",
+        "review": [
+            "Gamze doğuştan bir şifacı. Enerjisi, sözleri, dokunuşu zihni ve bedeni sakinleştiriyor, sizi olayları daha net ve önyargısız görmeye itiyor.",
+            "Kalbinizin derinliklerini keşfetmeniz ve davranışlarınızın, korkularınızın ve düşüncelerinizin köklerini ortaya çıkarmanız için sizi son derece dikkatli bir şekilde yönlendiriyor.",
+            "Bu yolculukta birlikte 2 yıldır birlikteyiz.",
+            "Nefes egzersizleri, meditasyon ve koçlukla, hayatın iniş çıkışları arasında yol alırken elimi tutuyor.",
+            "Hayatımdaki varlığı için sonsuza dek minnettarım ve evrenin bizi bir araya getirdiğine ve böylece büyüyüp kalplerimizi sonuna kadar açabileceğimize inanıyorum."
+        ]
+    },
+    "testi2": {
+        "h3": "Oyku C.",
+        "occupation": "Yaratıcı Yönetmen",
+        "review": [
+            "Gamze ile yaptığım seanslar inanılmaz derecede doğal ve zahmetsiz geliyor.",
+            "Kendi sesimi gerçekten dinleyebileceğim, zihnimdeki gürültüyü duymazdan gelebileceğim bir alan yaratıyor.",
+            "Gamze'nin nefes egzersizleri, aktif dinleme ve koçluktan oluşan benzersiz karışımı, her an nerede olduğuma göre kişisel yolculuğumda bana rehberlik etme becerisiyle birleşince dönüştürücü oldu.",
+            "Her seans taze ve ihtiyaçlarıma göre uyarlanmış hissettiriyor; asla rutin değil. Her seanstan nefesimde bir açıklık, kendimle daha derin bir bağ ve artan bir enerji ve heyecan hissiyle ayrılıyorum."
+        ]
+    },
+    "testi3": {
+        "h3": "Katy T.",
+        "occupation": "Bulut Güvenlik Uzmanı",
+        "review": [
+            "Gamze ile çalışmak, kendimin en iyi versiyonu olma yolunda ilerlememi sağlayan dönüştürücü bir deneyim oldu!",
+            "Son birkaç yıldır kaygı ve aşırı düşünme, belirli sosyal durumlarda kendimi ifade etme sorunları ve donup kalma gibi sorunlarla mücadele ettim!",
+            "Bu süreçte bazı sağlıksız alışkanlıklar edindim.",
+            "Bunlar, gerçekliğimden bir kaçıştı ve sonunda beni karanlık bir yola sürükledi.",
+            "Ama bir noktada zihnim, bedenim ve ruhum artık bana hizmet etmediklerini fark etti ve bir değişiklik yapmam gerektiğini biliyordum, ancak aynı eski alışkanlıklara geri dönmeden nasıl başlayacağımı gerçekten bilmiyordum.",
+            "Gamze beni harika bir dönüşüm yolculuğunda yönlendirdi!",
+            "En başından beri, kişisel sınırlarımı açmama ve keşfetmeme olanak tanıyan, sağlıklı sınırlar belirlemem ve hayatımın birçok alanını olumlu yönde etkileyen olumlu alışkanlıklar edinmem için gereken araçları sağlayan güvenli ve rahat bir alan yarattı.",
+            "Onun şefkati ve uzman rehberliği olmasaydı, şimdi nerede olurdum bilmiyorum.",
+            "Anlamlı bir kişisel gelişim arayışında olan herkese şiddetle tavsiye ederim. Teşekkürler Gamze!"
+        ]
+    },
+    "testi4": {
+        "h3": "Evlo M.",
+        "occupation": "Yoga Eğitmeni ve İngilizce Öğretmeni",
+        "review": [
+            "Gamze ile birçok seans yaptım ve her birinde kendimi \"Burada olduğum için çok mutluyum\" diye düşünürken buldum. Her seansın sonunda sanki yeniden doğmuşum, sanki büyülü bir şey bana dokunmuş gibi hissettim.",
+            "Her seans bir öncekinden daha güçlüydü. Gamze'nin seanslarının, meditasyonu en derinden deneyimlediğim en etkili anlardan bazıları olduğunu içtenlikle söyleyebilirim.",
+            "Bu yolculuğu yaşadığım için gerçekten minnettarım."
+        ]
+    },
+    "testi5": {
+        "h3": "Suheyla U.",
+        "occupation": "Yoga Eğitmeni ve İngilizce Öğretmeni",
+        "review": [
+            "Yoga Eğitmeni ve İngilizce Öğretmeni",
+            "Kendimde fark ettiğim ve beni rahatsız etmeye başlayan bazı alışkanlıkları bırakmam gerektiğini fark ettiğim bir noktadaydım, ancak bunu kendi başıma yapmakta çok zorlanıyordum.",
+            "Tamamen tesadüf eseri, belki de hiç tesadüf değil :), yolum Gamze ile kesişti. Dönüşümümün zorlu günlerinde, zihnimi sakinleştirmem, derin bir nefes almam ve en önemlisi kendime şefkat göstermem konusunda bana destek oldu.",
+            "Bilgisi ve uzmanlığının yanı sıra, canlı enerjisi, coşkusu ve neşesi bana ilham verdi ve her seansta yeni bir yol açtı.",
+            "Seanslarımızdan bu yana biraz zaman geçmiş olsa da, bana kazandırdığı içgörüler yolculuğumu aydınlatmaya devam ediyor. Bana kendi sınırsız ışığından bir ışık verdi; asla sönmeyecek bir ışık.",
+            "Yolumu aydınlattığın için teşekkürler Gamze!"
+        ]
+    },
+    "testi6": {
+        "h3": "Yardımcı Doçent",
+        "occupation": "Assistant Professor",
+        "review": [
+            "Gamze ve nefes seanslarıyla yolculuğum, hayatımın zor bir döneminde, cevaplar ararken ve yardım ararken başladı. Evine vardığımda, o kadar huzurlu bir ortamdı ki, sakin, şefkatli ve dönüştürücü enerjisiyle çevrili olacağımı hissedebiliyordum.",
+            "Beş seans boyunca, doğru nefes almanın fizyoloji ve psikoloji üzerinde nasıl bir etkisi olabileceğini fark ettim.",
+            "Nefes çalışmasından önce ve sonra yaptığımız sohbetler, sorularıma ışık tuttu ve kendim hakkında daha fazla şey öğrenme, iç benliğimle daha fazla temas kurma merakımı uyandırdı.",
+            "Koçluk, nefes çalışması, meditasyon ve rehberlik içeren eklektik ve bütünsel yaklaşımı, gerçekten ne istediğimi ve neye ihtiyacım olduğunu daha iyi anlamama yardımcı oldu ve çözümler için bir adım öne çıkmamı sağladı.",
+            "Ara sıra Gamze'yi ziyaret ettiğimde, kalbimde ve zihnimde bir rahatlama hissederek, tekrar merkezime döndüğümü hissederek, istediğimi yaratma gücüne sahip olduğumu hatırlayarak ayrılıyorum. Yollarımızın kesişmesinden dolayı çok minnettarım."
+        ]
+    }
+},
+"contact": {
+    "h2": "Bana ulaşın",
+    "info": "Aşağıdaki formu kullanarak bana kendinizden biraz bahsedin, ben de sizinle iletişime geçerek hayatınızın bu aşamasında neler olup bittiğini öğrenmek ve bir sonraki adım eylem planınızı oluşturmanıza yardımcı olmak için 30 dakikalık ücretsiz ve hiçbir yükümlülük altına girmeden bir görüşme ayarlayacağım.",
+    "form": {
+        "mandatory": "Zorunlu",
+        "name": "İsim",
+        "invalidName": "Lütfen adınızı giriniz.",
+        "email": "E-posta",
+        "invalidEmail": "Lütfen E-posta adresinizi giriniz.",
+        "email2": "E-postayı Tekrarla",
+        "invalidEmail2": "Lütfen aynı E-posta adresini girin.",
+        "phone": "Telefon",
+        "invalidPhone": "Sadece 0-9, +, ve -'ye izin verilir.",
+        "message": "Mesaj",
+        "messagePlace": "Kariyer geçişi, kişisel gelişim, emeklilik planlaması vb. gibi hayatınızın şu anki evresini kısaca açıklayın.",
+        "invalidMessage": "Lütfen mesajınızı yazın.",
+        "goals": "Hedefler ve Arzular",
+        "goalsPlace": "İş-yaşam dengesini sağlamak, kariyerinizde ilerlemek, yeni bir işe başlamak, sağlığınızı iyileştirmek, daha iyi ilişkiler kurmak vb. gibi.",
+        "additional": "Ek Bilgiler",
+        "additionalPlace": "İlgili olabileceğini düşündüğünüz ek bilgiler.",
+        "submit": "Gönder",
+        "submitOk": "Teşekkürler! Mesajınız başarıyla gönderildi.",
+        "sunmitNg": "Hay aksi! Bir sorun oluştu. Lütfen tekrar deneyin."
+    }
+},
+"footer": {
+    "altToTop": "Sayfa Başı",
+    "altCert": "Chopra Global Sertifikalı Refah Koçu, Promordial Ses Meditasyonu Öğretmeni, Ayurveda Sağlık Öğretmeni"
+},
+"testContact": {
+"title": "İletişim Formu",
+"name": "Ad Soyad",
+"email": "E-posta",
+"repeat_email": "E-postayı Tekrarla",
+"phone": "Telefon",
+"message": "Mesaj",
+"goal": "Hedefler ve Hayaller",
+"additional": "Ek Bilgiler",
+"submit": "Gönder",
+"thank_you": "Teşekkürler! Mesajınız gönderildi."
+}
+}
